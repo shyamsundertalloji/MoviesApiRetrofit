@@ -1,6 +1,6 @@
-package com.example.moviesapivolley.rest;
+package com.example.moviesapiretrofit.rest;
 
-import com.example.moviesapivolley.model.MovieResponse;
+import com.example.moviesapiretrofit.model.MovieResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

@@ -1,4 +1,4 @@
-package com.example.moviesapivolley.activity;
+package com.example.moviesapiretrofit.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -8,12 +8,12 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.example.moviesapivolley.R;
-import com.example.moviesapivolley.adapter.MoviesAdapter;
-import com.example.moviesapivolley.model.Movie;
-import com.example.moviesapivolley.model.MovieResponse;
-import com.example.moviesapivolley.rest.ApiClient;
-import com.example.moviesapivolley.rest.ApiInterface;
+import com.example.moviesapiretrofit.R;
+import com.example.moviesapiretrofit.adapter.MoviesAdapter;
+import com.example.moviesapiretrofit.model.Movie;
+import com.example.moviesapiretrofit.model.MovieResponse;
+import com.example.moviesapiretrofit.rest.ApiClient;
+import com.example.moviesapiretrofit.rest.ApiInterface;
 
 import java.util.List;
 

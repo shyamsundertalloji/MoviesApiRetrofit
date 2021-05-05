@@ -1,4 +1,4 @@
-package com.example.moviesapivolley.model;
+package com.example.moviesapiretrofit.model;
 
 import com.google.gson.annotations.SerializedName;
 

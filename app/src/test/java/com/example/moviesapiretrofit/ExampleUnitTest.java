@@ -1,4 +1,4 @@
-package com.example.moviesapivolley;
+package com.example.moviesapiretrofit;
 
 import org.junit.Test;
 

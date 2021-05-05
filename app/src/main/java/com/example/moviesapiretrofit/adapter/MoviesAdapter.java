@@ -1,4 +1,4 @@
-package com.example.moviesapivolley.adapter;
+package com.example.moviesapiretrofit.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -12,8 +12,8 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.moviesapivolley.R;
-import com.example.moviesapivolley.model.Movie;
+import com.example.moviesapiretrofit.R;
+import com.example.moviesapiretrofit.model.Movie;
 
 import java.util.List;
 
